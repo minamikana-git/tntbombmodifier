@@ -1,0 +1,4 @@
+name: tntbombmodifier
+version: '${project.version}'
+main: org.hotal.tntbombmodifier.Tntbombmodifier
+api-version: 1.19
