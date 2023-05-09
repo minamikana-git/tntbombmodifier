@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class tntbombmodifier extends JavaPlugin implements Listener {
 
-    // TNTの爆発範囲（半径）を変更する
+    // TNTの爆発範囲（半径）を変更する (explosionRadiusを変更することで爆発範囲を変更できます。デフォルトでは5.0倍です）。
     private double explosionRadius = 5.0;
 
     @Override
